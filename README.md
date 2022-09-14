@@ -1,70 +1,25 @@
-# Getting Started with Create React App
+![logo_safeart](https://user-images.githubusercontent.com/76876906/190180817-8af180d8-5076-49eb-a06a-c73c006860ff.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# SafeArt
 
-## Available Scripts
+![home_michelangelo](https://user-images.githubusercontent.com/76876906/190180643-b5d943e1-6e11-4476-b8ef-68112c20e2a1.png)
 
-In the project directory, you can run:
+In essence, SafeArt is a project focused on the use of innovative technologies; our
+business aims to develop a direct connection between cryptocurrencies and the art
+industry.
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+The SafeArt.io is a new platform based on the release of NFT collections, where
+community comes first. The SafeArt.io community utility token is used to give liquidity to
+the project and to interact on the platform itself.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+We, the creators of SafeArt.io, strongly believe that the future of art is digital, both for
+new works and for those created by the greatest artists of the past, those who have
+made the history of art. Art is the expression of the human being itself. It is our duty as
+human beings to preserve and cherish works of art by digitizing them and making them
+immortal on the Blockchain.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+We do not know what awaits us in the future, climate change and other factors are
+putting a strain on our species and all existing artistic creations. This may get even worse
+as time goes on, so saving art is our duty.
+That's why the SafeArt.io community will make its contribution to this mission.
