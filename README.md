@@ -24,3 +24,7 @@ We do not know what awaits us in the future, climate change and other factors ar
 putting a strain on our species and all existing artistic creations. This may get even worse
 as time goes on, so saving art is our duty.
 That's why the SafeArt.io community will make its contribution to this mission.
+
+smart contract octopus: https://polygonscan.com/address/0xf346ec2a2f032468a37edf87487910b2ff2bf8b8
+
+smart contract leo3d: https://polygonscan.com/address/0xf346ec2a2f032468a37edf87487910b2ff2bf8b8
