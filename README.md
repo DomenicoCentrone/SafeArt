@@ -2,8 +2,7 @@
 
 # SafeArt
 www.safeart.io
-
-![home_michelangelo](https://user-images.githubusercontent.com/76876906/190180643-b5d943e1-6e11-4476-b8ef-68112c20e2a1.png)
+![Immagine 2022-09-14 170120](https://user-images.githubusercontent.com/76876906/190191204-53e88b62-fdb4-49ea-8a27-55883993ef77.png)
 
 In essence, SafeArt is a project focused on the use of innovative technologies; our
 business aims to develop a direct connection between cryptocurrencies and the art
